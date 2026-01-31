@@ -30,7 +30,7 @@ agent workflows built using the **Model Context Protocol (MCP)**.
 - Ranks and surfaces relevant results
 
 **Repo**
-- [https://github.com/kinjal/<shopping-agent-repo>](https://github.com/kinjal-1007/shopping-assistant-mcp)
+- [shopping-assistant-mcp](https://github.com/kinjal-1007/shopping-assistant-mcp)
 
 ---
 
@@ -41,7 +41,7 @@ agent workflows built using the **Model Context Protocol (MCP)**.
 - Extracts topics without manual browsing
 
 **Repo**
-- [https://github.com/kinjal/<youtube-tracker-repo>](https://github.com/kinjal-1007/youtube-tracker-mcp)
+- [youtube-tracker-mcp](https://github.com/kinjal-1007/youtube-tracker-mcp)
 
 ---
 
@@ -52,7 +52,7 @@ agent workflows built using the **Model Context Protocol (MCP)**.
 - Producer / consumer group management
 
 **Repo**
-- [https://github.com/kinjal/<kafka-agent-repo>](https://github.com/kinjal-1007/confluent-mcp-server)
+- [confluent-kafka-mcp](https://github.com/kinjal-1007/confluent-mcp-server)
 
 ---
 
@@ -63,7 +63,7 @@ agent workflows built using the **Model Context Protocol (MCP)**.
 - End-to-end task execution workflows
 
 **Repo**
-- [https://github.com/kinjal/<mcp-client-repo>](https://github.com/kinjal-1007/multi-server-MCP)
+- [Langchain MCP Client Server](https://github.com/kinjal-1007/multi-server-MCP)
 
 ---
 
